@@ -8,5 +8,17 @@
 
 ![gaze](https://github.com/takaya0111/Gra_thesis/blob/master/sample_gaze_plot.png)
 
+・heatmap
+
+![heatmap](https://github.com/takaya0111/Gra_thesis/blob/master/sample_heatmap.png)
+
+・行間の視線推移確率
+
+![tran](https://github.com/takaya0111/Gra_thesis/blob/master/sample_transition.png)
+
+・被験者間の比較分析
+
+![a](https://github.com/takaya0111/Gra_thesis/blob/master/sample_anaysis.png)
+
 
 
