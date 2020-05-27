@@ -4,7 +4,9 @@
 
 以下、分析手法の例
 
-・gaze_plot [gaze](https://github.com/takaya0111/Gra_thesis/blob/master/sample_gaze_plot.png)
+・gaze_plot 
+
+[gaze](https://github.com/takaya0111/Gra_thesis/blob/master/sample_gaze_plot.png)
 
 
 
